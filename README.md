@@ -1,4 +1,4 @@
-# IDA Discord RPC Plugin
+# IDA Pro 9.2 Discord RPC Plugin
 
 A Discord Rich Presence (RPC) integration for IDA Pro that displays your current reversing activity to your Discord profile.
 
